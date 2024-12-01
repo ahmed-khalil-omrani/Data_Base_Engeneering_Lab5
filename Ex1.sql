@@ -1,6 +1,5 @@
-/*create table FLIGHT(Flight_number varchar(20), Departure_time varchar(20) , Arrival_time varchar(20)
+create table FLIGHT(Flight_number varchar(20), Departure_time varchar(20) , Arrival_time varchar(20)
 , Departure_town varchar(20), Arrival_town varchar(20)); 
-*/
 ---Ex1:
 Declare
 v_flight flight%ROWTYPE;
