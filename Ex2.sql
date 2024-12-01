@@ -1,4 +1,3 @@
-/*
 CREATE TABLE EMP(
   empNum Number primary key,
   empName varchar(30),
@@ -82,7 +81,7 @@ insert into EMP(EMPNUM,EMPNAME,JOB,HIREDATE,MANAGERID,SALARY,COMMISSION,DEPTNUM)
 
 alter table EMP modify address varchar(40);
 
-alter table EMP drop (address);*/
+alter table EMP drop (address);
 ---1:
 
 Declare 
